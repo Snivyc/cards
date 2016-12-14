@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "测试"
+categories: jekyll update
+img: huayangniao.png
+categories: two
+---
+
+太阳当空照，花阳对我笑，小鸟说：“早早早”，你为什么背着炸药包？我去炸学校，老师不知道！一点火我就跑，整个学校都被我炸没了！
+
+
+
+
+
