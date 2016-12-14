@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "测试"
+categories: jekyll update
+img: huayangniao.png
+categories: two
+---
+
+## 花阳与小鸟
+
+太阳当头照，花样对我笑，小鸟说：“早早早”。
